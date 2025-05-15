@@ -44,7 +44,11 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+###
+<!-- GitHub Contribution Calendar with animation -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=happy-syahrul-ramadhan&theme=dracula" alt="GitHub Contribution Calendar" />
+<a href="https://github.com/happy-syahrul-ramadhan"><img src="https://activity-graph.herokuapp.com/graph?username=happy-syahrul-ramadhan&custom_title=Contribution%20Calendar&theme=dracula&bg_color=282a36&hide_border=true&line=d1a01f&point=c9cadf" alt="GitHub Contribution Calendar" /></a>
+###
 
 <a href="https://github.com/happy-syahrul-ramadhan"><img src="https://github-readme-activity-graph.vercel.app/graph?username=happy-syahrul-ramadhan&theme=dracula&hide_border=false" alt="Activity Graph" /></a>
 
