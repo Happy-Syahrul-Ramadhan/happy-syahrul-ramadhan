@@ -50,11 +50,13 @@
 ###
 
 <!-- GitHub Activity Graph -->
+<!--
 <div align="center">
   <a href="https://github.com/happy-syahrul-ramadhan">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=happy-syahrul-ramadhan&theme=dracula&hide_border=false" alt="Activity Graph" />
   </a>
 </div>
+-->
 
 ###
 
