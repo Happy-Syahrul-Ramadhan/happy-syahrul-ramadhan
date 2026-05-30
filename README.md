@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Happy Syahrul Ramadhan and I'm a Web Developer & Data Engineer, from Lampung</h2>
+<h2 align="left">Hi 👋! My name is Happy Syahrul Ramadhan and I'm a Web Developer & Data Engineer</h2>
 
 ###
 <div align="center">
