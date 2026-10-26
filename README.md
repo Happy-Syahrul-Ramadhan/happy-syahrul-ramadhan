@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Happy Syahrul Ramadhan and I'm Data Engineer</h2>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=happy-syahrul-ramadhan.happy-syahrul-ramadhan" alt="visitor badge" />
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=happy-syahrul-ramadhan.happy-syahrul-ramadhan" alt="visitor badge" />
 
 ###
 <div align="center">
