@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! My name is Happy Syahrul Ramadhan and I'm Data Engineer</h2>
 
+<img src="https://visitor-badge.laobi.icu/badge?page_id=happy-syahrul-ramadhan.happy-syahrul-ramadhan" alt="visitor badge" />
+
 ###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=happy-syahrul-ramadhan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
